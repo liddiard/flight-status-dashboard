@@ -15,7 +15,8 @@ function displayProgress(size = PROGRESS_BAR_SIZE) {
       flight.originAirportCode,
       generateProgressBar(size, flight.timeRemainingToDestination, flight.flightDurationMinutes),
       flight.destinationAirportCode,
-      flight.estimatedArrivalTime
+      flight.estimatedArrivalTime,
+      '\n'
     );
   });
 }
