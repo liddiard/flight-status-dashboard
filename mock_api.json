@@ -1,0 +1,126 @@
+{
+    "isPortalInitialized" : true,
+    "flightOffersInternetService": true,
+    "internetConnectionIsAvailable": true,
+    "devicePlatform" : "Mac",
+    "host" : "www.unitedwifi.com",
+    "IsLoggedIn": false ,
+    "isSubscriptionAvailable": false,
+    "internet": {
+      "accessType": "NONE",
+      "tier": "",
+      "tierDescription": "",
+      "fulfilmentState": "",
+      "orderState": "",
+      "timeRemaining": 0
+    }
+        ,  
+    "flifo": {
+        "originAirportCode": "SJC",
+        "originCity": "San Jose",
+        "originState": "CA ",
+        "destinationAirportCode": "DEN",
+        "destinationCity": "Denver",
+        "destinationState": "CO ",
+        "scheduledDepartureTimeLocal": "19 Dec 2016 5:50 PM",
+        "scheduledArrivalTimeLocal": "19 Dec 2016 9:25 PM",
+        "estimatedDepartureTimeLocal": "19 Dec 2016 5:50 PM",
+        "estimatedArrivalTimeLocal": "19 Dec 2016 9:06 PM",
+        "actualDepartureTimeLocal": "19 Dec 2016 5:43 PM",
+        "actualArrivalTimeLocal": "01 Jan 0001 12:00 AM",
+        "flightStatus": "In Flight - Estimated to Arrive 19 Minutes Early",
+        "isFake": false,
+        "flightNumber": "920",
+        "flightGuid": "18c26faa-613a-4626-8b1f-298eded6a206",
+        "timeRemainingToDestination": 82,
+        "flightDurationMinutes" : 155,
+        "flightMapPath": "/portal/images/map/TabletLandscape.png?1482202054",
+        "scheduledDepartureTime": "5:50 p.m.",
+        "actualDepartureTime": "5:43 p.m.",
+        "scheduledArrivalTime": "9:25 p.m.",
+        "estimatedArrivalTime": "9:06 p.m.",
+        "departureGate": "13",
+        "arrivalGate": "B18",
+        "departureTerminal": "",
+        "arrivalTerminal": "Terminal West",
+        "departureConcourse": "",
+        "arrivalConcourse": " Concourse B",
+        "aircraftModel": "Airbus 319",
+        "noseNumber": "4036",
+        "equipmentCode": "19S",
+        "airSpeedMPH": "36",
+        "airSpeedKPH": "57",
+        "windDirection": "NW",
+        "groundSpeedMPH": "505",
+        "groundSpeedKPH": "813",
+        "airTemperatureF": "32",
+        "airTemperatureC": "0",
+        "altitudeFt": "30999",
+        "altitudeMeters": "9448"
+    }
+    
+    	    ,
+	    "weather": {
+	        "currently": {
+	            "day": "Mon",
+	            "code": "27",
+	            "currtempf": 38,
+	            "currtempc": 3,
+	            "lowtempf": 38,
+	            "hightempf": 38,
+	            "lowtempc": 3,
+	            "hightempc": 3,
+	            "text": "Mostly Cloudy"
+	        },
+	        "forecast": [
+	        	            {
+	                "day": "Tue",
+	                "code": 30,
+	                "lowtempf": 28,
+	            	"hightempf": 46,
+	            	"lowtempc": -2,
+	            	"hightempc": 8,
+	                "text": "Partly Cloudy"
+	            },
+	        	            {
+	                "day": "Wed",
+	                "code": 32,
+	                "lowtempf": 16,
+	            	"hightempf": 36,
+	            	"lowtempc": -9,
+	            	"hightempc": 2,
+	                "text": "Sunny"
+	            },
+	        	            {
+	                "day": "Thu",
+	                "code": 30,
+	                "lowtempf": 21,
+	            	"hightempf": 42,
+	            	"lowtempc": -6,
+	            	"hightempc": 5,
+	                "text": "Partly Cloudy"
+	            },
+	        	            {
+	                "day": "Fri",
+	                "code": 34,
+	                "lowtempf": 25,
+	            	"hightempf": 45,
+	            	"lowtempc": -4,
+	            	"hightempc": 7,
+	                "text": "Mostly Sunny"
+	            },
+	        	            {
+	                "day": "Sat",
+	                "code": 34,
+	                "lowtempf": 23,
+	            	"hightempf": 46,
+	            	"lowtempc": -5,
+	            	"hightempc": 8,
+	                "text": "Mostly Sunny"
+	            },
+	        
+	        "lastitem"
+	        ]
+	    }
+    
+}
