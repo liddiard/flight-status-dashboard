@@ -1,0 +1,9 @@
+# flight-status-dashboard
+
+Command line UI to view the status of your flight while in the air by pinging airlines' APIs (which are accessible even if you haven't paid for onboard Wi-Fi). Currently only supports United Airlines.
+
+## Usage
+
+1. Clone the repo
+2. `npm install`
+3. `npm start`
