@@ -1,6 +1,10 @@
 # flight-status-dashboard
 
-Command line UI to view the status of your flight while in the air by pinging airlines' APIs (which are accessible even if you haven't paid for onboard Wi-Fi). Currently only supports United Airlines.
+Simple command line UI to view the status of your flight while in the air by pinging airlines' APIs (which are accessible even if you haven't paid for onboard Wi-Fi). 
+
+Currently only supports United Airlines. Made while I was bored on a flight. Planning to support American Airlines soon.
+
+![Command Line UI example screenshot](http://i.imgur.com/M158Kbe.png)
 
 ## Usage
 
